@@ -1,0 +1,2 @@
+name: BUILDROOT_SYSTEMD
+desc: Buildroot to easily test systemd changes or changes to the systemd recipe in buildroot
