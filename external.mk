@@ -1,4 +1,4 @@
-#SYSTEMD_CONF_OPTS += 
+SYSTEMD_CONF_OPTS +=  -Dtests=unsafe -Dslow-tests=true -Dinstall-tests=true -Dtests=true
 
 
 
